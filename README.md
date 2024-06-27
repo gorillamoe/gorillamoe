@@ -6,10 +6,6 @@
 [![Svelte](https://img.shields.io/badge/Svelte-f44336?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=svelte&sort=stargazers)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=typescript&sort=stargazers)
 
-Markdown is meant to be translated into HTML (and usually is); most markdown editors do the rendering as you write.
-
-Therefore, you can use HTML tags and inline CSS to customize text appearance, just as you would do in HTML.
-
 <h3>
 
 Hello, I'm Marco Kellershoff.
