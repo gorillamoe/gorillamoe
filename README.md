@@ -33,7 +33,7 @@ Check out my [blog][blog]!
 
 
 
-[linux]: https://www.ubuntu.org/
+[linux]: https://www.ubuntu.com/
 [neovim]: https://neovim.io/
 [use]: https://gorilla.moe/uses
 [now]: https://gorilla.moe/now
