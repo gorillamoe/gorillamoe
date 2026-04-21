@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Neovim](https://img.shields.io/badge/NeoVim-2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/mistweaverco?q=neovim&type=all&language=&sort=stargazers)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=go&sort=stargazers)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=lua&sort=stargazers)
-[![Svelte](https://img.shields.io/badge/Svelte-f44336?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=svelte&sort=stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/mistweaverco?q=&type=all&language=typescript&sort=stargazers)
+[![Go][badge-go]][search-go]
+[![Lua][badge-lua]][search-lua]
+[![Svelte][badge-svelte]][search-svelte]
+[![TypeScript][badge-typescript]][search-typescript]
+[![Rust][badge-rust]][search-rust]
 
-<h3>
+</div>
 
 Hello, I'm Marco Kellershoff.
 
-I'm a loud 📢 introvert who loves ❤️ CI/CD,
+I'm a [loud 📢 introvert][otrovert] who loves ❤️ CI/CD,
 Cloud ☁️ and on-premise ✨,
 generally speaking, all things DevOps 🥷.
 
@@ -24,25 +24,31 @@ I got you 😎.
 I also keep track of [books][books] I read and
 the things I [want][want].
 
-You can find me on [Twitter][twitter],
-and [Bluesky][bluesky].
+You can find me on [Bluesky][bluesky].
 
 Want to know even more about me?
 
 Check out my [blog][blog]!
 
-</h3>
-
-</div>
 
 
-
-[linux]: https://www.ubuntu.com/
+[badge-go]: https://mistweaverco.com/assets/badges/golang.svg
+[search-go]: https://github.com/search?q=user%3Agorillamoe+user%3Amistweaverco+language%3AGo&type=Repositories&sort=stargazers
+[badge-svelte]: https://mistweaverco.com/assets/badges/svelte.svg
+[search-svelte]: https://github.com/search?q=user%3Agorillamoe+user%3Amistweaverco+language%3ASvelte&type=Repositories&sort=stargazers
+[badge-lua]: https://mistweaverco.com/assets/badges/lua.svg
+[search-lua]: https://github.com/search?q=user%3Agorillamoe+user%3Amistweaverco+language%3ALua&type=Repositories&sort=stargazers
+[badge-typescript]: https://mistweaverco.com/assets/badges/typescript.svg
+[search-typescript]: https://github.com/search?q=user%3Agorillamoe+user%3Amistweaverco+language%3ATypeScript&type=Repositories&sort=stargazers
+[badge-rust]: https://mistweaverco.com/assets/badges/rust.svg
+[search-rust]: https://github.com/search?q=user%3Agorillamoe+user%3Amistweaverco+language%3ARust&type=Repositories&sort=stargazers
+[badge-rust]: https://mistweaverco.com/assets/badges/rust.svg
+[linux]: https://cachyos.org/
 [neovim]: https://neovim.io/
 [use]: https://gorilla.moe/uses
 [now]: https://gorilla.moe/now
 [books]: https://gorilla.moe/books
 [want]: https://gorilla.moe/wishlist
-[twitter]: https://x.com/thisgorilla
 [bluesky]: https://bsky.app/profile/gorilla.moe
 [blog]: https://gorilla.moe/blog
+[otrovert]: https://en.wikipedia.org/wiki/Otrovert
